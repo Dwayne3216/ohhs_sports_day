@@ -15,6 +15,7 @@ require_once 'db/conn.php';
 </div>
 
 
+
 <!-- Page Info -->
 
 <div class="overflow-visible">
@@ -38,7 +39,7 @@ require_once 'db/conn.php';
     <!-- Registration Button -->
     <div class="container my-3">
         <div class="col-md-12 text-center">
-            <a class="btn btn-success btn-lg" href="form.php" role="button">Register</a>
+            <a class="btn btn-lg btn-outline-success background-color: #198754" href="form.php" role="button">Register</a>
         </div>
     </div>
 

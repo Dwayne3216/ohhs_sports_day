@@ -13,9 +13,9 @@ $eventtype = $crud->getEvent();
 ?>
 
 <div class="col d-flex justify-content-center">
-<div class="card bg-warning border-success mb-3" style="width: 50rem">
+<div class="card border-success mb-3" style="width: 50rem">
 <div class="card-header card text-white bg-success" ><h1 class="text-center">Registration for O.H.H.S Sports Day</h1></div>
-<div class="card-body">
+<div class="card-body bg-warning opacity-78 ">
 
 <form method="post" enctype="multipart/form-data" action="success.php" class= "row g-3">
 
